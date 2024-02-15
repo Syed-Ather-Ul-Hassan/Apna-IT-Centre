@@ -1,4 +1,4 @@
 # Apna-IT-Centre
 This is Demo
 <br>
-Author:Syed Ather Ul Hassan
+Author:Syed Ather Ul Hassan Shah
